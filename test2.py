@@ -1,1 +1,1 @@
-print("dick")
+print("潘劭穎雞雞很小")
